@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Iliya Fallah Tafti
 
 Welcome to my profile!  
-I'm a **junior backend developer** specializing in **Python** and **Django**. I am passionate about learning, growing, and tackling new challenges in backend development.
+I'm a **junior back-end developer** specializing in **Python** and **Django**. I am passionate about learning, growing, and tackling new challenges in backend development.
 
 ---
 
